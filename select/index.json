@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "KARMA CITY",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-03T15:22:32.414795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KARMA CITY",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_KARMA_CITY_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KARMA CITY",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_KARMA_CITY_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KARMA CITY",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/03_KARMA_CITY_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KARMA CITY (Acappella Version)",
+      "artist": "Alexander Starr",
+      "has_synced": false,
+      "path": "select/04_KARMA_CITY_(Acappella_Version)_Alexander_Starr.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Karma City Nights (feat. Stro Maxwell)",
+      "artist": "Alexander Starr",
+      "has_synced": true,
+      "path": "select/05_Karma_City_Nights_(feat._Stro_Maxwell)_Alexander_Starr.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KARMA CITY",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_KARMA_CITY_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "KARMA CITY",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_KARMA_CITY_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "KARMA CITY",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_KARMA_CITY_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "KARMA CITY",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_KARMA_CITY_米津玄師.txt"
+    }
+  ]
+}
