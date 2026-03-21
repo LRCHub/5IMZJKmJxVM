@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "KARMA CITY",
   "base_artist": "米津玄師",
-  "createdAt": "2025-12-19T09:50:09.360531Z",
+  "createdAt": "2026-03-21T08:11:05.690708Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,14 @@
       "artist": "Alexander Starr",
       "has_synced": true,
       "path": "select/05_Karma_City_Nights_(feat._Stro_Maxwell)_Alexander_Starr.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KARMA CITY",
+      "artist": "Kenshi Yonezu [米津玄師]",
+      "has_synced": true,
+      "path": "select/06_KARMA_CITY_Kenshi_Yonezu_[米津玄師].lrc"
     },
     {
       "id": "petitlyrics_1",
